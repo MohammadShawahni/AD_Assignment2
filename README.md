@@ -17,3 +17,4 @@ The objective of this assignment is to design and implement a small application 
 8_) CompanyManagementApp: The main application, where the core functionality of the company management system is implemented. It includes the creation of user instances, adding them to the database, and generating reports.
 
 9_) FakeDatabase class: That simulates a fake database for storing user data and relationships. It allows adding users, getting users, and assigning Managers to Directors.
+![Class_Digram drawio](https://github.com/MohammadShawahni/AD_Assignment2/assets/92360594/3f936f2c-9a2b-459a-9400-9507ece35803)
